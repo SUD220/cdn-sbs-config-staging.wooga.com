@@ -1,0 +1,1 @@
+# cdn-sbs-config-staging.wooga.com
